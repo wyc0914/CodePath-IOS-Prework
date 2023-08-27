@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/AJjFJd1.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/oQmDYvb.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -27,14 +27,30 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+**Discord**
+    * Connect and interact with friends and meet new people
+    * Share ideas and images or videos in a community
+    * Get connected by voice and interact freely
 
+**Spotify**
+    * Get to choose from a list of music that you want to listen to
+    * Gives you suggestions of music that you might like based on what you have listened to in the past
+    * Get to look at music that your friend is listening to and the feature to like the music and add it to your own playlist
+
+**Weather**
+    * Get live details on the weather in your current location
+    * Gives you an estimate of how it feels like in the area
+    * Able to add weather of different locations in the world
+
+  An app that I would like to improve on is the calculator app on IOS. There are a lot of times when I want to save a number on the calculator for later use but there isn't an option to do so. Therefore, I wanted to implement this feature into the calculator app. Additionally, I would also like to add a feature to add a tag or note to the number that wishes to be saved for later use, so we would not forget what the meaning of certain saved numbers is meant for. I believe that this new feature will be useful because I have encountered this kind of problem many times, as well as seeing this problem occur near me.
+  
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges that I encountered while building the app were to learn and find where each button for certain feature was located.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Yicheng Wang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
