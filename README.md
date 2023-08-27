@@ -2,7 +2,7 @@
 
 Submitted by: **Yicheng Wang**
 
-**CodePath PreWork** is an app that has 3 labels; my name, the college that I'm attending, and the future job that I wish to be in. The app also has two button for the user to click on, one of which will change the background color of the app and the other button will change the color of the three labels in the app.
+**CodePath PreWork** is an app that has 3 labels; my name, the college that I'm attending, and the future job that I wish to be in. The app also has two buttons for the user to click on, one of which will change the background color of the app and the other button will change the color of the three labels in the app.
 
 Time spent: **1** hours spent in total
 
@@ -33,20 +33,20 @@ GIF created with Kap
   * Get connected by voice and interact freely
 
 **Spotify**
-    * Get to choose from a list of music that you want to listen to
-    * Gives you suggestions of music that you might like based on what you have listened to in the past
-    * Get to look at music that your friend is listening to and the feature to like the music and add it to your own playlist
+  * Get to choose from a list of music that you want to listen to
+  * Gives you suggestions of music that you might like based on what you have listened to in the past
+  * Get to look at music that your friend is listening to and the feature to like the music and add it to your own playlist
 
 **Weather**
-    * Get live details on the weather in your current location
-    * Gives you an estimate of how it feels like in the area
-    * Able to add weather of different locations in the world
+  * Get live details on the weather in your current location
+  * Gives you an estimate of how it feels like in the area
+  * Able to add weather of different locations in the world
 
   An app that I would like to improve on is the calculator app on IOS. There are a lot of times when I want to save a number on the calculator for later use but there isn't an option to do so. Therefore, I wanted to implement this feature into the calculator app. Additionally, I would also like to add a feature to add a tag or note to the number that wishes to be saved for later use, so we would not forget what the meaning of certain saved numbers is meant for. I believe that this new feature will be useful because I have encountered this kind of problem many times, as well as seeing this problem occur near me.
   
 ## Notes
 
-Challenges that I encountered while building the app were to learn and find where each button for certain feature was located.
+Challenges that I encountered while building the app were to learn and find where each button for certain features was located.
 
 ## License
 
