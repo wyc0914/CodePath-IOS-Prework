@@ -20,7 +20,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://i.imgur.com/oQmDYvb.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -28,9 +28,9 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 **Discord**
-    * Connect and interact with friends and meet new people
-    * Share ideas and images or videos in a community
-    * Get connected by voice and interact freely
+  * Connect and interact with friends and meet new people
+  * Share ideas and images or videos in a community
+  * Get connected by voice and interact freely
 
 **Spotify**
     * Get to choose from a list of music that you want to listen to
